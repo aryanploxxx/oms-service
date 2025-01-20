@@ -16,6 +16,13 @@ oms-service/
     └── order.go
 ```
 
+## Completion Status
+- [x] Single order creation
+- [x] Bulk order creation
+- [x] Using Message Queue to send Bulk Messages
+- [x] Implement Worker Pool for efficient taks distribution
+- [ ] Websockets Implementation
+
 ## Project Setup
 
 1. Setup Dependencies
