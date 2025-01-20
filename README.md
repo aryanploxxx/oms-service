@@ -20,7 +20,7 @@ oms-service/
 - [x] Single order creation
 - [x] Bulk order creation
 - [x] Using Message Queue to send Bulk Messages
-- [x] Implement Worker Pool for efficient taks distribution
+- [x] Implement Worker Pool for efficient tasks distribution
 - [ ] Websockets Implementation
 
 ## Project Setup
