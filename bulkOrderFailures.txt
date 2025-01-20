@@ -1,0 +1,9 @@
+Log: 2025/01/20 19:24:54 bulkOrder.go:205: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/20 19:26:33 bulkOrder.go:206: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/20 19:30:20 bulkOrder.go:203: Request failed for Product id 6 and Customer id 7 - Status Code: 404
+Log: 2025/01/20 19:41:30 bulkOrder.go:193: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/20 19:45:39 bulkOrder.go:193: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/20 20:19:01 bulkOrder.go:125: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/20 20:19:02 bulkOrder.go:125: Request failed for Product id 9 and Customer id 9
+Log: 2025/01/20 20:23:55 bulkOrder.go:127: Request failed for Product id 9 and Customer id 9
+Log: 2025/01/20 20:23:55 bulkOrder.go:127: Request failed for Product id 6 and Customer id 7
