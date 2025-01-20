@@ -20,7 +20,7 @@ oms-service/
 
 1. Setup Dependencies
 ``` golang
-  go get "github.com/lib/pq" "github.com/rabbitmq/amqp091-go" "github.com/rabbitmq/amqp091-go"
+  go get "github.com/lib/pq" "github.com/gorilla/mux" "github.com/rabbitmq/amqp091-go"
 ```
 2. Initialize RabbitMQ Image
 ``` golang
