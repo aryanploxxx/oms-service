@@ -7,3 +7,11 @@ Log: 2025/01/20 20:19:01 bulkOrder.go:125: Request failed for Product id 6 and C
 Log: 2025/01/20 20:19:02 bulkOrder.go:125: Request failed for Product id 9 and Customer id 9
 Log: 2025/01/20 20:23:55 bulkOrder.go:127: Request failed for Product id 9 and Customer id 9
 Log: 2025/01/20 20:23:55 bulkOrder.go:127: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/22 12:17:34 bulkOrder.go:127: Request failed for Product id 9 and Customer id 9
+Log: 2025/01/22 12:17:34 bulkOrder.go:127: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/22 12:39:08 bulkOrder.go:127: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/22 12:39:08 bulkOrder.go:127: Request failed for Product id 9 and Customer id 9
+Log: 2025/01/22 12:39:49 bulkOrder.go:127: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/22 12:39:49 bulkOrder.go:127: Request failed for Product id 9 and Customer id 9
+Log: 2025/01/22 12:41:22 bulkOrder.go:127: Request failed for Product id 6 and Customer id 7
+Log: 2025/01/22 12:41:30 bulkOrder.go:127: Request failed for Product id 9 and Customer id 4

@@ -25,8 +25,8 @@ var bulkOrders []OrderBulkRecieve = []OrderBulkRecieve{
 	{6, 7},
 	{2, 2},
 	{3, 2},
-	{4, 1},
-	{9, 9},
+	{4, 3},
+	{9, 4},
 }
 
 func InitializeRabbitMQ(database2 *sql.DB) http.HandlerFunc {
@@ -129,6 +129,9 @@ func processingSingleOrder(order *OrderBulkRecieve, worker string, wg *sync.Wait
 	}
 
 	fmt.Println(order, "completed by worker", worker)
+
+	// order -> product id, customer id
+	SendEmails(order)
 
 	workersChann <- worker
 	fmt.Printf("Response content: %+v\n", neww)
