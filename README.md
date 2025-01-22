@@ -75,5 +75,9 @@ oms-service/
 ### Logging Failed Bulk Requests
 ![image](https://github.com/user-attachments/assets/296c0038-d932-43fa-93ac-377a3952b986)
 
+### Successful Order Creation Email
+![image](https://github.com/user-attachments/assets/775658fd-99af-47d3-8928-757ee28f3c2f)
+
+
 ## Ideation
 ![IMG_20250120_205847](https://github.com/user-attachments/assets/8b3f6229-79bc-4a83-9e97-1ef85e645d39)
